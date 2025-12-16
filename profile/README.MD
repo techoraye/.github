@@ -275,8 +275,8 @@ Your go-to Discord for everything tech, smartphones, gadgets, and digital lifest
 ## 📧 Contact
 
 - **GitHub:** [@techoraye](https://github.com/techoraye)
-- **Discord:** Available through project servers
-- **Email:** Available through GitHub profile
+- **Discord:** techoraye
+- **Email:** contact.techoraye@gmail.com
 
 ---
 
