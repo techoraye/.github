@@ -182,26 +182,6 @@ I'm a developer focused on:
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techoraye&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10)
-
-### Organization Stats
-
-<table>
-<tr>
-<td width="50%">
-
-#### CarbonForgeOfi
-![CarbonForgeOfi Repo](https://github-readme-stats.vercel.app/api/pin/?username=CarbonForgeOfi&repo=USER-GUIDE&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-</td>
-<td width="50%">
-
-#### ProjectEclipseOfi
-![EclipseOS Repo](https://github-readme-stats.vercel.app/api/pin/?username=ProjectEclipseOfi&repo=android_bootable_recovery&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
