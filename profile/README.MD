@@ -247,7 +247,15 @@ Your go-to Discord for everything tech, smartphones, gadgets, and digital lifest
 
 ### Personal
 
+### Personal
+
 - 💻 **GitHub** — [@techoraye](https://github.com/techoraye)
+- 🌐 **Website** — [techoraye.com](https://www.techoraye.com/)
+- 💬 **Discord** — [discord.gg/tbnh5yXbj8](https://discord.gg/tbnh5yXbj8)
+- 🐦 **X (Twitter)** — [@techoraye](https://x.com/techoraye)
+- 🎵 **TikTok** — [@techoraye](https://www.tiktok.com/@techoraye)
+- 🎵 **TikTok (Secondary)** — [@techorayehdd](https://www.tiktok.com/@techorayehdd)
+- 🎶 **Spotify** — [Techoraye Artist](https://open.spotify.com/artist/1DLn9UOZMOMpM9hN0urL8C?si=1-H_lmIvT4qb0HxinDozSQ)
 
 ### Projects
 
