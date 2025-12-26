@@ -206,6 +206,7 @@ A powerful Discord bot-based VPS management platform that allows users to deploy
 - 💻 **GitHub** — [github.com/CarbonForgeOfi](https://github.com/CarbonForgeOfi)
 - 🎵 **TikTok** — [@carbonforgeofi](https://www.tiktok.com/@carbonforgeofi)
 - 💬 **Discord** — [discord.gg/MSUAmVu7d9](https://discord.gg/MSUAmVu7d9)
+- 🐦 **X (Twitter)** — [x.com/CarbonForgeOfi](https://x.com/CarbonForgeOfi)
 
 ---
 
@@ -263,6 +264,7 @@ Your go-to Discord for everything tech, smartphones, gadgets, and digital lifest
 - 💻 [GitHub](https://github.com/CarbonForgeOfi)
 - 🎵 [TikTok](https://www.tiktok.com/@carbonforgeofi)
 - 💬 [Discord](https://discord.gg/MSUAmVu7d9)
+- 🐦 [X (Twitter)](https://x.com/CarbonForgeOfi)
 
 **EclipseOS:**
 - 💻 [GitHub](https://github.com/ProjectEclipseOfi)
