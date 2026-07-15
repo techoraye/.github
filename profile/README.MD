@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Infrastructure Engineer | Project Owner**
 
-Welcome to my GitHub profile! I'm a developer passionate about building scalable infrastructure, Discord bots, and Android ROM development. I own and maintain several projects including CarbonForge VPS management platform and EclipseOS Android ROM.
+Welcome to my GitHub profile! I'm a developer passionate about building scalable infrastructure, Discord bots, and Android ROM development. I own and maintain several projects including CarbonForge VPS management platform, EclipseOS Android ROM, and Rivenbot.
 
 ---
 
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building scalable
   - [🚀 CarbonForge](#-carbonforge)
   - [📱 EclipseOS](#-eclipseos)
   - [🏠 Tech House](#-tech-house)
+  - [🤖 Rivenbot](#-rivenbot)
 - [🔗 Social Media](#-social-media)
 - [📧 Contact](#-contact)
 - [💡 Fun Facts](#-fun-facts)
@@ -39,6 +40,7 @@ I'm a developer focused on:
 - CarbonForge - Discord-based VPS management platform
 - EclipseOS - Custom Android ROM project
 - Tech House - Tech community and content
+- Rivenbot - Discord bot
 
 ---
 
@@ -232,6 +234,22 @@ Your go-to Discord for everything tech, smartphones, gadgets, and digital lifest
 
 ---
 
+### 🤖 Rivenbot
+
+**Developer**
+
+A powerful and versatile Discord bot tailored to enhance server functionality, management, and overall user experience.
+
+**Key Features:**
+- ✅ Advanced server management and moderation tools
+- ✅ Interactive utilities and dynamic commands
+- ✅ Reliable and fast performance
+
+**Links:**
+- 🌐 **Website** — [rivenbot.ca](https://www.rivenbot.ca/)
+
+---
+
 ## 🔗 Social Media
 
 ### Personal
@@ -265,6 +283,9 @@ Your go-to Discord for everything tech, smartphones, gadgets, and digital lifest
 - 📺 [YouTube](https://www.youtube.com/channel/UCpNDcz_qcQaljiJ2dAX9ghA)
 - 📱 [Reddit](https://www.reddit.com/r/TechHouseOfi)
 - 🐦 [X (Twitter)](https://x.com/TechHouseOfi)
+
+**Rivenbot:**
+- 🌐 [Website](https://www.rivenbot.ca/)
 
 ---
 
