@@ -180,7 +180,7 @@ I'm a developer focused on:
 
 ### 🚀 CarbonForge
 
-**Owner & Developer** | [@CarbonForgeOfi](https://github.com/CarbonForgeOfi)
+**Owner & Developer** | [@CarbonForge-ca](https://github.com/CarbonForge-ca)
 
 A powerful Discord bot-based VPS management platform that allows users to deploy, manage, and monitor virtual private servers directly from Discord. Built on Proxmox infrastructure.
 
@@ -191,7 +191,7 @@ A powerful Discord bot-based VPS management platform that allows users to deploy
 - ✅ Full container lifecycle management
 
 **Links:**
-- 💻 **GitHub** — [github.com/CarbonForgeOfi](https://github.com/CarbonForgeOfi)
+- 💻 **GitHub** — [github.com/CarbonForge-ca](https://github.com/CarbonForge-ca)
 - 🎵 **TikTok** — [@carbonforgeofi](https://www.tiktok.com/@carbonforgeofi)
 - 💬 **Discord** — [discord.gg/MSUAmVu7d9](https://discord.gg/MSUAmVu7d9)
 - 🐦 **X (Twitter)** — [x.com/CarbonForgeOfi](https://x.com/CarbonForgeOfi)
@@ -265,7 +265,7 @@ A powerful and versatile Discord bot tailored to enhance server functionality, m
 ### Projects
 
 **CarbonForge:**
-- 💻 [GitHub](https://github.com/CarbonForgeOfi)
+- 💻 [GitHub](https://github.com/CarbonForge-ca)
 - 🎵 [TikTok](https://www.tiktok.com/@carbonforgeofi)
 - 💬 [Discord](https://discord.gg/MSUAmVu7d9)
 - 🐦 [X (Twitter)](https://x.com/CarbonForgeOfi)
