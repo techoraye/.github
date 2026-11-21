@@ -11,7 +11,7 @@ the Settings app, the file manager and a kernel with its own crash screen.
 set up from a web dashboard. Node.js bot, Rust services behind the website. [rivenbot.ca](https://www.rivenbot.ca)
 
 **Homelab** — a server I built myself, not a second-hand rack box: AMD EPYC 7551P (32 cores), Gigabyte MZ01-CE1,
-128 GB DDR4 ECC, NVIDIA Tesla P40 (24 GB) for local AI, Chelsio T6225-CR 25 Gb network card, 2 TB NVMe plus a 3 TB IronWolf,
+128 GB DDR4 ECC RDIMM, NVIDIA Tesla P40 (24 GB) for local AI, Chelsio T6225-CR 25 Gb network card, 2 TB NVMe plus a 3 TB IronWolf,
 and an Arista 7048T switch. It runs Proxmox with about thirty virtual machines: OPNsense and WireGuard, a bastion for every
 SSH session, network-wide DNS filtering, my own mail server and nightly backups.
 
